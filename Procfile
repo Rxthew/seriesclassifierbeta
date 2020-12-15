@@ -1,2 +1,2 @@
-web: voila --port=$PORT --no-browser --enable_nbextensions=True TV Series Classifier.ipynb
+web: voila --port=$PORT --no-browser --enable_nbextensions=True TV_Series_Classifier.ipynb
 
