@@ -6,3 +6,7 @@ having some issues deploying to Heroku. The result is admittedly not as polished
 
 Further details are in the link, but the long and short of it is that the model takes the image of a scene from a select number of television series
 and predicts which series it is from. 
+
+## Heroku Update: 
+
+In 2022 Heroku discontinued its free tier so this project is no longer online. 
